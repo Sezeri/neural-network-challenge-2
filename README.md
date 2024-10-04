@@ -1,1 +1,2 @@
 # neural-network-challenge-2
+I could not finish because I kept running into the error "ValueError: Arguments `target` and `output` must have the same shape. Received: target.shape=(None, 2), output.shape=(None, 3)." I spent a considerable amount of time trying to figure it out but could not. 
